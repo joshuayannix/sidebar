@@ -167,6 +167,7 @@ Sidebar
   transition: var(--transition);
   cursor: pointer;
   animation: bounce 2s ease-in-out infinite;
+  outline: none;
 }
 .sidebar-toggle:hover {
   color: var(--clr-primary-7);
